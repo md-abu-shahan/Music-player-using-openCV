@@ -1,0 +1,3 @@
+With the change of the era, the concept of human thinking is changing.  As a result, the implementation of the bizarre necessary ideas of people is being implemented by using technology. Like: Artificial Intelligent, image processing etc. In which modern people of the modern age are advanced and progress towards progress.  In this project, we use image processing technology. Image processing is a method to perform some operations on an image, in order to get an enhanced image or to extract some useful information from it.
+
+In this project is simple, we are building a smart “music player” which is control by user interaction.
